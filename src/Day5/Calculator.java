@@ -33,7 +33,7 @@ public class Calculator {
 		default:
 			System.out.println(-1);
 		}
-
+        sc.close();
 	}
 
 }

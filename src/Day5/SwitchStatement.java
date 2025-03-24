@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SwitchStatement {
 	public static void main(String[] args) {
-		2 sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter First Input:");
 		int a = sc.nextInt();
 		switch(a) {
@@ -27,6 +27,7 @@ public class SwitchStatement {
 		}
 		
 		}
+		sc.close();
 	}
 
 }
