@@ -7,7 +7,6 @@ public class Instagram {
 		User u2 = new User("Sham@123", 987, "pookie");
 		u1.printData();
 		u2.printData();
-
 	}
 
-}
+}      
