@@ -1,6 +1,7 @@
 package Day9;
 
 public class Static_class_overloading {
+	
 	static int a = 10;
 	static {
 		System.out.println("static block 1");
