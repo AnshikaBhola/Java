@@ -1,4 +1,4 @@
-package Day12;
+ package Day12;
 
 public class Cab {
 	String type;
